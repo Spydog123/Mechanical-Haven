@@ -1,136 +1,224 @@
 Mod List
 
-Forge/FML by LexManos, cpw
-AOBD 2 by ganymedes01
-AppleCore by squeek502
-Applied Energistics by AlgorithX2
-Aroma1997Core by Aroma1997
-Aroma1997s Dimensional World by Aroma1997
-AromaBackup by Aroma1997
-AsieLib by asie
-Back Tools by iChun
-Backpacks by Eydamos
-Baubles by Azanor
-Better Records by Stumblinbear
-Better Sleeping by OndraSter
-Better Title Screen by Girafi, amadornes
-BiblioCraft by Nuchaz
-Big Reactors by Erogenous Beef
-Binnie's Mods by Binnie
-Biomes O' Plenty by TDWP_FTW, Adubbz
-bspkrsCore by bspkrs
-Buildcraft by CovertJaguar, SirSengir, Krapht, cpw, spacetoad
-Cannibalism by SoaraZodia
-Carpenter's Blocks by Mineshopper
-Chisel by AUTOMATIC_MAIDEN
-Chisel Facades by Choonster
-CodeChickenCore by Chickenbones
-CoFH Core by CoFH team
-ComputerCraft by dan200
-Computronics by asie
-CoroUtil by Corosauce
-DecoCraft by RazzleberryFox
-DenseOres by RWTema
-Dimensional Anchors by immibis
-Electrical Age by Dolu1990
-Emasher Defense by Emasher
-Emasher's Resource by Emasher
-Emotes by Vazkii
-Enchanting Plus by Freyjadono, mssodin23, GnRSlash, Qizzok, xkyouchoux
-Ender Tech by Drayshak
-EnderIO by CrazyPants
-EnderStorage by Chickenbones
-Engineer's Toolbox by Emasher
-EnhancedPortals by Alz454
-Extra Cells by Leonelf
-Extra Utilities by RWTema
-ExtraTiC by Glassmaker
-FastCraft by Player
-Flans mod and official content packs by jamioflan
-FloatingRuins by bspkrs
-Fluxed Trinkets by jaredlll8
-Forestry by SirSengir
-Forge Multipart by Chickenbones
-ForgeMultipart Integration by wasliebob
-FoxLib by Kihira
-Funky Locomotion by RWTema
-Galacticraft by Micdoodle8
-Garden Stuff by jaquadro
-GasCraft by Emasher
-Gravestone Mod by NightKosh
-Growthcraft by Gwafu
-HarvestCraft by MatrexsVigil, Rhodox
-Hats by iChun
-Hunger Overhaul by iguana_man
-iChunUtil by iChun
-Iguana Tweaks for Tinker's Construct by boni, iguana_man
-Immibis Core by immibis
-Immibis's Microblocks by immibis
-Immibis's Peripherals by immibis
-In-Game Wiki Mod by MineMaarten
-Intelligent Energistics by thatslch
-Inventory Tweaks by Kobata
-Liquid XP by immibis
-Malisis Core by Ordinastie
-Malisis Doors by Ordinastie
-Mantle by mDiyo, progwml6
-Mapwriter by mapwriter
-Mekanism by aidancbrady
-Memory Cleaner by ViniciusIrangel
-MicdoodleCore by Micdoodle8
-Minecraft Comes Alive by Wildbamaboy
-MinecraftLoader by CreativeMD
-MineFactory Reloaded by skyboy026, powercrystals
-MobiusCore by ProfMobius
-More Chisels by TehNut
-Morph by iChun
-Morpheus by quetzi
-Natura by mDiyo
-NedoComputers by Andrey73
-NEI Integration by Tonius
-NetherOres by skyboy026, powercrystals
-Not Enough Items by Chickenbones
-Not Enough Keys by Mr_okushama
-Open Modular Turrets by Poenjabiesous, Keridos, UntouchedWagons
-OpenBlocks by Mikeemoo
-OpenComputers by Sangar
-OpenEye by Mikeemoo, boq
-OpenModsLib by Mikeemoo
-OpenPeripheral Core by Mikeemoo
-Opis by ProfMobius
-Particle Man by Corosauce
-PneumaticCraft by MineMaarten
-Project Red by MrTJP, Chickenbones
-qCraft by Dan200
-RadixCore by Wildbamaboy
-Railcraft by CovertJaguar
-Redstone Arsenal by TeamCoFH
-Remote IO by dmillerw
-RFTools by McJty
-Ropes+ by AtomicStryker
-Secret Rooms by AbrarSyed
-Simple Achievements by tterrag1098
-Simply Jetpacks by Tonius
-Simply Paths by squeek502
-Solar Flux by Nauktis
-Sophisticated Wolves by NightKosh, metroidfood
-Sound Filters by Tmtravlr
-Stalker Creepers by AtomicStryker
-Steve's Carts 2 by Vswe
-Tails by Kihira
-The Spice of Life by squeek502
-Thermal Dynamics by TeamCoFH
-Thermal Expansion by CoFH team
-Thermal Foundation by TeamCoFH
 Thermal Smeltery by Drullkus
-TiC Tooltips by squeek502
-Tinker's Construct by boni, mDiyo
-ttCore by tterrag
-Tubes by Schmoller
+Better Sleeping by OndraSter
+Useful TNT by Reika
+Draconic Evolution by brandon3055
+ReactorCraft by Reika - Granted
+Chisel 2 by warlordjones, tterrag1098, TheCricket26, Drullkus
+OpenPeripheral Core by Mikeemoo
+Quick Hotbar Mod by Kulttuuri
+RotaryCraft by Reika - Granted
+Morpheus by quetzi
 Waila by ProfMobius
-WAILAPlugins by tterrag
-Wawla by Darkhax
+Redstone Arsenal by CoFH team
+qCraft by Dan200
+Open Modular Turrets by Poenjabiesous, Keridos, UntouchedWagons
 Wireless Redstone CBE by Chickenbones
-YAFM by AiryBreath
+Malisis Doors by Ordinastie
+Chisel Tones by TehNut
+MineFactory Reloaded by skyboy026, powercrystals
+Advanced Generators by bdew
+CodeChickenCore by Chickenbones
+Forestry Extras by wasliebob
+Malisis Core by Ordinastie
+Gany's End by ganymedes01, KingPurpleRaptor
+Forge Multipart by Chickenbones
+Biomes O' Plenty by TDWP_FTW, Adubbz
 Yampst by bilde2910
+Tube Transport System by ShadedDimensions
+Project Red by MrTJP, Chickenbones
+NoMoreRecipeConflict by Stimmedcow, GotoLink
+Gendustry by bdew
+Resource Loader by Lumien
+ExtraTiC by Glassmaker
+MobiusCore by ProfMobius
+GasCraft by Emasher
+Buildcraft by CovertJaguar, SirSengir, Krapht, cpw, spacetoad
+Ropes+ by AtomicStryker
+Cart Livery by octarine_noise
+Thermal Expansion by CoFH team
+Intelligent Energistics by thatslch
+FastLeafDecay by Olafski
+Gravitation Suite by SeNtiMeL
+Remote IO by dmillerw
+Electrical Age by Dolu1990
+Simply Jetpacks by Tonius
+Backpacks by Eydamos
+Alternate Terrain Generation by TTFTCUTS
+Hunger Overhaul by iguana_man
+Minecraft Comes Alive by Wildbamaboy
+Galacticraft by Micdoodle8
+Custom Main Menu by Lumien - Granted
+Aroma1997s Dimensional World by Aroma1997
+BiblioCraft by Nuchaz
+Mekanism by aidancbrady
+Thermal Foundation by CoFH team
+Bdlib by bdew
+OpenComputers by Sangar
+More Planets Mod by SteveKunG
+ForgeMultipart Integration by wasliebob
+ttCore by tterrag
+HxC Core by DeathToHerobrine
+Simply Paths by squeek502
+Compact Solars by cpw
+Aroma1997Core by Aroma1997
+Carpenter's Blocks by Mineshopper
+Inventory Tweaks by Kobata
+NEI Addons by bdew
+PneumaticCraft by MineMaarten
+Default World Generator by fireball1725
+Flans mod and official content packs by jamioflan
+MicdoodleCore by Micdoodle8
+Enchanting Plus by Freyjadono, mssodin23, GnRSlash, Qizzok, xkyouchoux
+Super Crafting Frame by EdgarAllen
+Tails by Kihira
+AdvancedMachines (immibis) by immibis
+Dimensional Anchors by immibis
+Advanced Solar Panels by SeNtiMeL
+Funky Locomotion by RWTema
+NEI Integration by Tonius
+Thermal Dynamics by TeamCoFH
+bspkrsCore by bspkrs
+Tinker's Construct by boni, mDiyo
+AppleCore by squeek502
+Qmunity Lib by MineMaarten, K4Unl, & amadornes
+Super Massive Tech by tterrag
+3D Furnace by spAnser
+Dynamic Crafting Systems by WingsOfLife
+Sophisticated Wolves by NightKosh, metroidfood
+Quantum Flux by jotato
+Mantle by mDiyo, progwml6
+NetherOres by skyboy026, powercrystals
+AOBD 2 by ganymedes01
+Steve's Workshop by Vswe
+Security Craft by Geforce
+Railcraft by CovertJaguar
+Highlands by sdj64
+Extra Utilities by RWTema
+Moo Fluids by TheRoBrit
+HxC Enchants by DeathToHerobrine
+BetterFps by Guichaguri
+Refined Relocation by Dynious
+DenseOres by RWTema
+Project Blue by Greg Ewing
+Applied Energistics by AlgorithX2
+Gravestone Mod by NightKosh
+Nuclear Control by shedar
+Tubes by Schmoller
+MineMenu by dmillerw
+Particle Man by Corosauce
+TiC Tooltips by squeek502
+Forestry by SirSengir
+Ztech by Zuxelus
+Fluxed Trinkets by jaredlll8
+Opis by ProfMobius
+Artifice by Shukaro
+Cannibalism by SoraZodia
+NedoComputers by Andrey73
+Open Peripheral Intergration by OpenMods, boq
+Hats by iChun
+RFTools by McJty
+More Chisels by TehNut
+AutoPackager by smbarbour
+OpenEye by Mikeemoo, boq
+RadixCore by Wildbamaboy
+CoFH Core by CoFH team
+Calculator by SonarSonic - Granted
 Zombie Awareness by Corosauce
+AE2 Stuff by bdew
+HxC World Gen by DeathToHerobrine
+RFWindmill by pieppenguin
+Streams by delvr
+FloatingRuins by bspkrs
+The Spice of Life by squeek502
+FoxLib by Kihira
+Stalker Creepers by AtomicStryker
+Toolbox by carliman
+Void Monster by Reika - Granted
+Growthcraft by Gwafu
+Morph by iChun
+DecoCraft by RazzleberryFox
+Thermal Casting by insaneau
+K4Lib by K4Unl
+Gany's Surface by ganymedes01, KingPurpleRaptor
+GeoStrata by Reika - Granted
+AromaBackup by Aroma1997
+Gany's Nether by ganymedes01, KingPurpleRaptor
+Solar Flux by Nauktis
+Matter Overdrive by simeonradivoev
+HxC Blocks by DeathToHerobrine
+MalCore by Malorolam
+WaslieCore by wasliebob
+IronChests by cpw
+Emasher Defense by Emasher
+ExtrabiomesXL by Allaryin, ScottKillen
+IHL Tools and Machines by Foghrye4
+LanteaCraft by MichiyoRavencroft
+ComputerCraft by Dan200
+Big Reactors by Erogenous Beef
+Simple Achievements by tterrag1098
+Immibis's Microblocks by immibis
+Emotes by Vazkii
+Compact Water Turbines by Gigabit101
+DragonAPI by Reika - Granted
+Mapwriter by mapwriter
+MrCrayfish's Furniture Mod by Mr_Crayfish
+Shipwrecks by TheWinslow
+Hopper Ducts Mod by FyberOptic
+AgriCraft by InfinityRaider
+Garden Stuff by jaquadro
+Extra Cells by Leonelf
+AsieLib by asie
+Emasher's Resource by Emasher
+Immibis Core by immibis
+JABBA by ProfMobius
+Not Enough Items by Chickenbones
+Expanded Redstone by Reika - Granted
+PixelGalaxy by RamiLego4Game
+Not Enough Keys by Mr_okushama
+Wawla by Darkhax
+Hydraulicraft by K4Unl
+OpenModsLib by Mikeemoo
+Better Records by Stumblinbear
+Chisel Facades by Choonster
+HarvestCraft by MatrexsVigil, Rhodox
+Iguana Tweaks for Tinker's Construct by iguana_man, boni
+Computronics by asie
+iChunUtil by iChun
+EnderStorage by Chickenbones
+Farseek by delvr
+RFDrills by goldenapple
+Progressive Automation by Vanhal
+LightwaveTweaks by Lightwave8
+ElectriCraft by Reika - Granted
+OpenBlocks by Mikeemoo
+Tinker's Mechworks by mDiyo
+WAILAPlugins by tterrag
+Ztones by riciJak
+Practicalities by jotato
+Ships Mod by Cuchaz
+Binnie's Mods by Binnie
+Baubles by Azanor
+Blue Power by quetzi, amadornes, K4Unl, MineMaarten, RavenWhitefang
+Engineer's Toolbox by Emasher
+Steve's Carts 2 by Vswe
+EnderIO by CrazyPants
+CoFHLib by Team CoFH
+Liquid XP by immibis
+Ender Tech by Drayshak
+FastCraft by Player - Granted
+Carbonization by Malorolam
+Natura by mDiyo
+CoroUtil by Corosauce
+Immibis's Peripherals by immibis
+Back Tools by iChun
+IndustrialCraft 2 by IC2 Dev Team
+Sails Addon by Hac_kit_ten - Granted
+In-Game Wiki Mod by MineMaarten
+YAFM by AiryBreath
+Enhanced Portals by KzariusRex, Alz454, Alz454
+Sound Filters by Tmtravlr
+Translocators by Chickenbones
+Better Foliage by OctarineNoise
+Router Reborn by TomEVoll
